@@ -8,6 +8,7 @@ This could be used to shorten your urls.
 - Authentication is just for presentation purposes: we should use jwt instead of basic auth
 - Everything has to be a little bit more configurable
 - Statistics could be more meaningful
+- Exception-Handling is not very helpful at the moment/users get the wrong information
 
 ## Resources:
 ### Shorten: 
