@@ -1,3 +1,5 @@
+![circleci](https://circleci.com/gh/Gontrum/shorturl.svg?style=shield&circle-token=6bc963b5758d26414a4a1add0b970d31bcef8580)
+
 # Url Shortener
 
 This could be used to shorten your urls. 
