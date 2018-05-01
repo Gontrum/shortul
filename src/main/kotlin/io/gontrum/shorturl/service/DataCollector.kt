@@ -1,4 +1,4 @@
-package io.gontrum.shorturl.statistics
+package io.gontrum.shorturl.service
 
 import eu.bitwalker.useragentutils.UserAgent
 import io.gontrum.shorturl.model.ShortUrl

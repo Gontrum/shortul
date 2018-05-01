@@ -4,13 +4,12 @@ import com.natpryce.hamkrest.assertion.assert
 import com.natpryce.hamkrest.endsWith
 import com.natpryce.hamkrest.equalTo
 import com.natpryce.hamkrest.present
-import com.natpryce.hamkrest.startsWith
 import com.nhaarman.mockito_kotlin.*
 import io.gontrum.shorturl.model.ShortUrl
 import io.gontrum.shorturl.model.ShortUrlRequest
 import io.gontrum.shorturl.repository.ShortUrlRepository
 import io.gontrum.shorturl.service.ShortUrlCreator
-import io.gontrum.shorturl.statistics.DataCollector
+import io.gontrum.shorturl.service.DataCollector
 import org.junit.Test
 import org.mockito.Mockito.times
 import org.mockito.Mockito.verify

@@ -4,7 +4,7 @@ import io.gontrum.shorturl.model.ShortUrlRequest
 import io.gontrum.shorturl.model.ShortUrlResponse
 import io.gontrum.shorturl.repository.ShortUrlRepository
 import io.gontrum.shorturl.service.ShortUrlCreator
-import io.gontrum.shorturl.statistics.DataCollector
+import io.gontrum.shorturl.service.DataCollector
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
